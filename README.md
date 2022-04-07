@@ -1,5 +1,6 @@
 # OS_PROJECT
 FUEL FILLING STATION
+
 AIM: To find the average waiting time of the vehicles that arrive at the fuel filling station.
 
 There are two types of fuels in the fuel filling station namely DIESEL and PETROL.The filling of respective fuel in the vehicle is determined by the information provided by the vehicle owner.
