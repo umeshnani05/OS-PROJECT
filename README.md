@@ -2,7 +2,9 @@
 FUEL FILLING STATION
 
 OBJECTIVE : 
-    To estimate the filling time of each vehicle and to find the average waiting time for all the vehicles present in the fuel filling station.
+    To estimate the filling time of each vehicle and to find the average waiting time for all the vehicles present in the fuel filling station. 
+
+
 METHODOLOGY:
 •	There are two types of fuels in the fuel filling station: PETROL and DIESEL. The filling of respective fuel in the vehicle is determined by the information       provided by the vehicle owner. There can be at most ten vehicles waiting in the queue. Here priorities are given to every vehicle that arrives at the station. 
 
