@@ -98,3 +98,15 @@ document.getElementById("ali").append("Avg waiting time : " + avg_wt_die + " sec
 
 
 }
+
+function add_col()
+{
+    var vn=document.getElementById("vni");
+    vn.value="";
+    var rf=document.getElementById("rfi");
+    rf.value="";
+    var ti=document.getElementById("ti");
+    ti.value="";
+    var vt=document.getElementById("vt");
+    vt.value="";
+}
